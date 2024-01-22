@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsarierik&show_icons=true&locale=en" alt="yusufsarierik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsarierik&" alt="yusufsarierik" /></p>
+
+
+
+![snake animation](https://github.com/<seu yusufsarierik>/<seu yusufsarierik>/blob/output/github-contribution-grid-snake2.svg)
